@@ -33,7 +33,7 @@ To run the simulation, execute the following command:
 
 sh
 Copy code
-npx i-hacked-nasa
+npx me-hacked-nasa
 Author
 Created by Shahabuddin.
 
